@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: coolsnowwolf+adbyby+ssr
+name: Openwrt
 
 on:
   repository_dispatch:
